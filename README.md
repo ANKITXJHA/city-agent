@@ -5,7 +5,7 @@ An AI agent that fetches **live weather** and **latest news** for any city, buil
 ## Demo
 
 <!-- Add your demo video/GIF here. See the note in the "Adding the demo" section below. -->
-Demo video: [_add link here_](https://www.linkedin.com/posts/ankitjha21_ai-langchain-aiagents-ugcPost-7517119815833284608-fRSZ/?highlightedUpdateUrn=urn%3Ali%3Aactivity%3A7517119853372194816&highlightedUpdateType=SOCIAL_SHARE&origin=SOCIAL_SHARE&utm_source=share&utm_medium=member_desktop&rcm=ACoAAFIioswB0tx3wF9xEcbdRnvf1FE6dSHuWA4)
+Demo video: [_Video_](https://www.linkedin.com/posts/ankitjha21_ai-langchain-aiagents-ugcPost-7517119815833284608-fRSZ/?highlightedUpdateUrn=urn%3Ali%3Aactivity%3A7517119853372194816&highlightedUpdateType=SOCIAL_SHARE&origin=SOCIAL_SHARE&utm_source=share&utm_medium=member_desktop&rcm=ACoAAFIioswB0tx3wF9xEcbdRnvf1FE6dSHuWA4)
 
 ## Features
 
